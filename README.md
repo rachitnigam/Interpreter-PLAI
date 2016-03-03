@@ -1,4 +1,5 @@
 ##PLAI - Interpreter
+
 Implemetation of an interpreter from [this assignment](https://cs.brown.edu/courses/cs173/2010/Assignments/extended-interpreter.html) from the 2010 offerring of CS1730 in Brown university.
 
 The language implemeted has the following BNF:
@@ -28,3 +29,5 @@ Note: A variety of test cases, to test the above mentioned functionality are inc
 
 ####To do
 - Make it more usable by creating an interactive environment
+
+*Note - I have stopped working on this project and am instead working on a better Interpreter I wrote in OCaml. Expect very few updates, though I intend to eventually setup an interactive environment for this*
